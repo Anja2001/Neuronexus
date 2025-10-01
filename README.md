@@ -1,61 +1,16 @@
-# Neuronexus
-NEURONEXUS: An AI-powered ADHD Prediction and Support System that integrates machine learning, chatbot assistance, mentor guidance, and symptom-based health prediction for early detection and personalized care.
+# neuronexus
 
-## Features
+A new Flutter project.
 
-- **Admin Module**
-  - User & system management
-  - Data analytics and insights
+## Getting Started
 
-- **Mentor Support Module**
-  - Connects users with qualified mentors
-  - Personalized guidance and progress tracking
+This project is a starting point for a Flutter application.
 
-- **Chatbot Module**
-  - AI-powered chatbot for communication
-  - Provides resources and suggestions
+A few resources to get you started if this is your first Flutter project:
 
-- **ADHD Prediction Module**
-  - Machine learning–based ADHD risk prediction
-  - Personalized reports & recommendations
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- **Symptom-Based Disease Prediction Module**
-  - Identifies potential health risks
-  - Suggests preventive measure
-
-## Tech Stack
-
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, Dart  
-- **Backend**: Python (Django Framework)  
-- **Database**: MySQL  
-- **AI/ML**: Python-based ML models  
-- **Other Tools**: Chatbot integration
-
----
-
-## System Requirements
-
-### Hardware
-- Processor: Pentium 8 or above  
-- RAM: 8 GB or higher  
-- Hard Disk: 80 GB or more  
-- Monitor: SVGA color  
-- Input Devices: Standard keyboard and mouse  
-
-### Software
-- OS: Windows 8 or above  
-- Browser: Internet Explorer / Mozilla Firefox  
-- Frontend: HTML, CSS, Bootstrap, JavaScript, Dart  
-- Backend: Python with Django  
-- Database: MySQL  
-
-
-##  Future Scope
-- Integration with wearable devices for real-time monitoring  
-- Multilingual support for broader accessibility  
-- Advanced analytics for better treatment recommendations  
-
-
-## 📌 How to Run
-1. Clone this repository  
-   git clone https://github.com/your-username/NEURONEXUS.git
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
